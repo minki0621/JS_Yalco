@@ -24,3 +24,5 @@ for (let i = 0; i < numbers1.length; i++) {
   numbers1[i]++; // ⚠️ 실제 값에 인덱스로 접근 - 원본 배열의 내용 변경
 }
 console.log(numbers1, numbers2);
+
+//주석을 달고 수정한 버전
