@@ -26,3 +26,4 @@ for (let i = 0; i < numbers1.length; i++) {
 console.log(numbers1, numbers2);
 
 //주석을 달고 수정한 버전
+//두번째 주석을 달고 수정한 후 저장
